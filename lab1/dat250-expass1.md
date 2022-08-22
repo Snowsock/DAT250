@@ -24,9 +24,12 @@ OS name: "linux", version: "5.19.0-1.1-liquorix-amd64", arch: "amd64", family: "
 
 ## Chosing IDE
 
-It is of outnost importance to chose an IDE that will give the best result when working with code. For this course I have chosen Eclipse, because Eclipse lets the developer use JavaEE "out of the box".
+It is of outmost importance to chose an IDE that will give the best result when working with code. For this course I have chosen Eclipse, because Eclipse lets the developer use JavaEE "out of the box".
 
 ## Heroku
 
 The turtorial for setting up an Heroku server was followed. No problems was experienced during set-up.</br>
 The set-up was tested with the Demo app both locally and on-line. No problems was experienced.</br>
+
+## Link to project
+[https://blooming-shelf-94858.herokuapp.com/9](https://blooming-shelf-94858.herokuapp.com/)
