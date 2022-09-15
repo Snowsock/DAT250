@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 15 15:41:52 UTC 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0183-41d0-41be-000007700000 
+on database directory /home/inge/Documents/DAT250/labs/lab2/dat250-jpa-example/db/experiment2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/home/inge/.config/JetBrains/IntelliJIdea2022.2/jdbc-drivers/Apache%20Derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=17.0.4+7-b469.53
+user.dir=/home/inge/Documents/DAT250/labs/lab2/dat250-jpa-example
+os.name=Linux
+os.arch=amd64
+os.version=5.19.0-8.2-liquorix-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
